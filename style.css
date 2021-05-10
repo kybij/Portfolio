@@ -57,7 +57,7 @@ header nav ul li a:hover {
  }
 
 .hero {
-    background-image: url("../portfolio/norway.jpeg");
+    background-image: url("./images/norway.jpeg");
     width: 100%;
     height: 80vh;
     display: flex;
