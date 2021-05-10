@@ -8,7 +8,7 @@ A portfolio that I will have all of my future projects on that potential job emp
  *CSS
  
 ## Screenshot
-![](images/screenshot2.png)
+![](images/screenshot1.png)
 
 ### Contribution
 Kylee Bijerring 
