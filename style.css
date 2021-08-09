@@ -11,7 +11,7 @@ header {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    background-image: url("../kyleebij/norway.jpeg");
+    background-image: url("./images/norway.jpeg");
     background-size: cover;
     background-position:center;
     background-attachment: fixed;
